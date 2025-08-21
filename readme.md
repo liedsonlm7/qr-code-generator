@@ -3,8 +3,6 @@ Este projeto tem o objetivo de fornecer ferramentas funcionais na geração de s
 
 <br/>
 
-<br/>
-
 ## ⚙️ Como executar o projeto
 1. Clone o repositório:
 ``` bash 
