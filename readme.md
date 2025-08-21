@@ -3,11 +3,6 @@ Este projeto tem o objetivo de fornecer ferramentas funcionais na geração de s
 
 <br/>
 
-## Exemplos de uso
-![Gerar QR Code](./src/assets/projeto-qrcode.png)
-<br/>
-![Gerar Senha](./src/assets/projeto-qrcode-2.png)
-
 <br/>
 
 ## ⚙️ Como executar o projeto
